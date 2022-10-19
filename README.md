@@ -1,8 +1,10 @@
 # 122-People-Passenger-Behavior-Recognition-Data
-https://www.datatang.ai/datasets/1083
+
 
 ## Description
 122 People - Passenger Behavior Recognition Data. The data includes multiple age groups, multiple time periods and multiple races (Caucasian, Black, Indian). The passenger behaviors include passenger normal behavior, passenger abnormal behavior(passenger carsick behavior, passenger sleepy behavior, passenger lost items behavior). In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as passenger behavior analysis.
+
+For more details, please refer to the link: https://bit.ly/3DQE3y3
 
 ## Data size
 122 people
@@ -33,3 +35,6 @@ the video data format is .avi
 
 ## Accuracy
 collection accuracy: based on the accuracy of the actions, the accuracy exceeds 95%; annotation accuracy: the accuracy of label annotation is not less than 95%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
