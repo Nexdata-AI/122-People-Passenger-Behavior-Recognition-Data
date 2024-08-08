@@ -4,7 +4,7 @@
 ## Description
 122 People - Passenger Behavior Recognition Data. The data includes multiple age groups, multiple time periods and multiple races (Caucasian, Black, Indian). The passenger behaviors include passenger normal behavior, passenger abnormal behavior(passenger carsick behavior, passenger sleepy behavior, passenger lost items behavior). In terms of device, binocular cameras of RGB and infrared channels were applied. This data can be used for tasks such as passenger behavior analysis.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1083?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1083?source=Github
 
 
 ## Data size
